@@ -1,0 +1,20 @@
+info:
+  contact:
+    email: contato@jsfelipearaujo.com
+    name: Jose Felipe
+  description: |
+    # My API
+
+    This is an example that will load the description from a MD file.
+
+    # Links
+
+    - [Swaggo](https://github.com/swaggo/swag/tree/master)
+    - [Swaggo v2](https://github.com/swaggo/swag/tree/v2)
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  title: My Api
+  version: 1.0.0
+paths: {}
+swagger: "2.0"

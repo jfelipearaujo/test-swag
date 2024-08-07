@@ -1,0 +1,22 @@
+components: {}
+externalDocs:
+  description: ""
+  url: ""
+info:
+  contact:
+    email: contato@jsfelipearaujo.com
+    name: Jose Felipe
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  title: My Api
+  version: 1.0.0
+openapi: 3.1.0
+paths: {}
+servers:
+- description: DEV Environment
+  url: https://my-server-dev.com
+- description: HML Environment
+  url: https://my-server-hml.com
+- description: PRD Environment
+  url: https://my-server.com
